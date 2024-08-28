@@ -22,4 +22,6 @@ illustrate: it corrects
 
 # Problem
 This project can be used by personal ustage, if you want to publize to public, there are several problems need to be solve
-+ some content cannot be correct thought LLM, because my computer doesn't have enough great performance to run LLM for multi threads
++ some content cannot be correct thought LLM, because my computer doesn't have enough great performance to run LLM for multi threads. better compute can optimize this problem.
++ The order of message is not total same with voice, because I do not reorder it after I receive the result from multi thread process. I havn't learned this technique.
++ the result of text-to-speech are not always good, large model will be better, but base verison is enough to use if you speack with the standard of ielts speaking test.
